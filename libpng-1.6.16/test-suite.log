@@ -1,0 +1,18 @@
+=====================================
+   libpng 1.6.16: ./test-suite.log
+=====================================
+
+# TOTAL: 40
+# PASS:  39
+# SKIP:  1
+# XFAIL: 0
+# FAIL:  0
+# XPASS: 0
+# ERROR: 0
+
+.. contents:: :depth: 2
+
+SKIP: tests/pngstest-error
+==========================
+
+

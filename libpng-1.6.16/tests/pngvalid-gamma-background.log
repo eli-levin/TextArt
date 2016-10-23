@@ -1,0 +1,7 @@
+
+Gamma correction with background:
+  8 bit gray:  5.94334
+  8 bit color: 19.59153
+ 16 bit gray:  1.08750
+ 16 bit color: 84.02026
+PASS: pngvalid --gamma-background (floating point arithmetic)
