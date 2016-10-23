@@ -1,5 +1,4 @@
-#ifndef PIXELBUFFER_H
-#define PIXELBUFFER_H
+#pragma once
 
 #include <string>
 #include <vector>
@@ -37,5 +36,3 @@ private:
 
     std::pair<Pixel, float> GetPartitionData(int x, int y);
 };
-
-#endif
